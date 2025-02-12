@@ -16,13 +16,7 @@ Hi, Im AdolfoZepeda!
 ```
 I-am-pogo
 -------------------------
-💻 I am a student and Front End Develpoer in progress
-📚 systems engineering, MX
-🌱 Learning about computer and Front End tecnologies every day 
-🌟 Javascript Lover
-🚩 Interested in Full Stack
-💖 In a relationship
-🎵 Billie Eilish & The Weeknd
+
 ```
 <hr>
 
